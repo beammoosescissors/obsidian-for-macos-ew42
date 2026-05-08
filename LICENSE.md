@@ -1,4 +1,4 @@
-
+Enhance Obsidian for macOS with new Workflow for Obsidian for macOS - custom shortcuts and version history, the #1 workflow. Includes custom shortcuts and version history for a
 
 
 
